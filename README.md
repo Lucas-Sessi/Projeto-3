@@ -1,4 +1,4 @@
-# landing-page-3
- 
+# Projeto 3
+ Terceiro Projeto Desenvolvido
 
-<a href="https://lucas-sessi.github.io/lading-page-3/Projeto2.html">3ª  landing page de demonstração<a>
+<a href="https://lucas-sessi.github.io/Projeto-3/">Projeto 3<a>
